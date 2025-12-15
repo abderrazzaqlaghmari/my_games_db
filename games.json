@@ -3,7 +3,7 @@
     "id": "1",
     "title": "LUDO CLASSIC",
     "category": "BOARD",
-    "imageUrl": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/1200px-2048_logo.svg.png",
     "gameUrl": "https://github.com/simonhochrein/ludo-js/archive/refs/heads/master.zip"
   },
   {
