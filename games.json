@@ -2,13 +2,13 @@
   {
     "id": "1",
     "title": "Super Mario Fan",
-    "image": "https://raw.githubusercontent.com/yours/repo/main/mario.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/MarioNSMBUDeluxe.png",
     "description": "Best platform game ever."
   },
   {
     "id": "2",
     "title": "Racing Pro",
-    "image": "https://raw.githubusercontent.com/yours/repo/main/car.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Car_icon_red.png",
     "description": "High speed racing."
   }
 ]
