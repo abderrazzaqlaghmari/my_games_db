@@ -1,44 +1,44 @@
 [
   {
     "id": "1",
-    "title": "LUDO CLASSIC",
-    "category": "BOARD",
+    "title": "2048 PUZZLE",
+    "category": "PUZZLE",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/1200px-2048_logo.svg.png",
-    "gameUrl": "https://github.com/simonhochrein/ludo-js/archive/refs/heads/master.zip"
+    "gameUrl": "https://github.com/gabrielecirulli/2048/archive/refs/heads/master.zip"
   },
   {
     "id": "2",
-    "title": "KNIFE HIT",
-    "category": "ACTION",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Knifes_icon.png/640px-Knifes_icon.png",
-    "gameUrl": "https://example.com/knife-hit.zip"
+    "title": "LUDO CLASSIC",
+    "category": "BOARD",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ludo_board.png",
+    "gameUrl": "https://github.com/simonhochrein/ludo-js/archive/refs/heads/master.zip"
   },
   {
     "id": "3",
-    "title": "CANDY CRUSH",
-    "category": "PUZZLE",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/Candy_Crush_icon.png",
-    "gameUrl": "https://example.com/candy.zip"
-  },
-  {
-    "id": "4",
-    "title": "SUBWAY SURF",
-    "category": "ARCADE",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0e/Subway_Surfers_App_Icon.png",
-    "gameUrl": "https://example.com/subway.zip"
-  },
-  {
-    "id": "5",
     "title": "CHESS MASTER",
     "category": "BOARD",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg",
     "gameUrl": "https://example.com/chess.zip"
   },
   {
+    "id": "4",
+    "title": "SUDOKU PRO",
+    "category": "PUZZLE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/1200px-Sudoku-by-L2G-20050714.svg.png",
+    "gameUrl": "https://example.com/sudoku.zip"
+  },
+  {
+    "id": "5",
+    "title": "SNAKE GAME",
+    "category": "ARCADE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Snake_video_game_cover_art.png/640px-Snake_video_game_cover_art.png",
+    "gameUrl": "https://example.com/snake.zip"
+  },
+  {
     "id": "6",
-    "title": "ANGRY BIRDS",
-    "category": "ACTION",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Angry_birds_rio_cover.png",
-    "gameUrl": "https://example.com/birds.zip"
+    "title": "SOLITAIRE",
+    "category": "CARDS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Solitaire_game_screenshot.png/640px-Solitaire_game_screenshot.png",
+    "gameUrl": "https://example.com/solitaire.zip"
   }
 ]
