@@ -1,14 +1,44 @@
 [
   {
     "id": "1",
-    "title": "Super Mario Fan",
-    "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/MarioNSMBUDeluxe.png",
-    "description": "Best platform game ever."
+    "title": "LUDO CLASSIC",
+    "category": "BOARD",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ludo_board.png",
+    "gameUrl": "https://github.com/simonhochrein/ludo-js/archive/refs/heads/master.zip"
   },
   {
     "id": "2",
-    "title": "Racing Pro",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Car_icon_red.png",
-    "description": "High speed racing."
+    "title": "KNIFE HIT",
+    "category": "ACTION",
+    "imageUrl": "https://img.freepik.com/premium-vector/knife-hit-target-logo-vector-icon-illustration_128913-286.jpg",
+    "gameUrl": "https://example.com/knife-hit.zip"
+  },
+  {
+    "id": "3",
+    "title": "CANDY CRUSH",
+    "category": "PUZZLE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/Candy_Crush_icon.png",
+    "gameUrl": "https://example.com/candy.zip"
+  },
+  {
+    "id": "4",
+    "title": "SUBWAY SURF",
+    "category": "ARCADE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0e/Subway_Surfers_App_Icon.png",
+    "gameUrl": "https://example.com/subway.zip"
+  },
+  {
+    "id": "5",
+    "title": "CHESS MASTER",
+    "category": "BOARD",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg",
+    "gameUrl": "https://example.com/chess.zip"
+  },
+  {
+    "id": "6",
+    "title": "ANGRY BIRDS",
+    "category": "ACTION",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/23/Angry_birds_rio_cover.png",
+    "gameUrl": "https://example.com/birds.zip"
   }
 ]
