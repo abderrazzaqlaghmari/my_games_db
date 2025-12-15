@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Super Mario Fan",
+    "image": "https://raw.githubusercontent.com/yours/repo/main/mario.jpg",
+    "description": "Best platform game ever."
+  },
+  {
+    "id": "2",
+    "title": "Racing Pro",
+    "image": "https://raw.githubusercontent.com/yours/repo/main/car.jpg",
+    "description": "High speed racing."
+  }
+]
