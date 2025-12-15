@@ -3,42 +3,42 @@
     "id": "1",
     "title": "2048 PUZZLE",
     "category": "PUZZLE",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/1200px-2048_logo.svg.png",
+    "imageUrl": "https://images.pexels.com/photos/1329295/pexels-photo-1329295.jpeg?auto=compress&cs=tinysrgb&w=600",
     "gameUrl": "https://github.com/gabrielecirulli/2048/archive/refs/heads/master.zip"
   },
   {
     "id": "2",
     "title": "LUDO CLASSIC",
     "category": "BOARD",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ludo_board.png",
+    "imageUrl": "https://images.pexels.com/photos/278918/pexels-photo-278918.jpeg?auto=compress&cs=tinysrgb&w=600",
     "gameUrl": "https://github.com/simonhochrein/ludo-js/archive/refs/heads/master.zip"
   },
   {
     "id": "3",
     "title": "CHESS MASTER",
     "category": "BOARD",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg",
+    "imageUrl": "https://images.pexels.com/photos/51928/chess-game-chessboard-glass-51928.jpeg?auto=compress&cs=tinysrgb&w=600",
     "gameUrl": "https://example.com/chess.zip"
   },
   {
     "id": "4",
     "title": "SUDOKU PRO",
     "category": "PUZZLE",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/1200px-Sudoku-by-L2G-20050714.svg.png",
+    "imageUrl": "https://images.pexels.com/photos/2080336/pexels-photo-2080336.jpeg?auto=compress&cs=tinysrgb&w=600",
     "gameUrl": "https://example.com/sudoku.zip"
   },
   {
     "id": "5",
     "title": "SNAKE GAME",
     "category": "ARCADE",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Snake_video_game_cover_art.png/640px-Snake_video_game_cover_art.png",
+    "imageUrl": "https://images.pexels.com/photos/9069502/pexels-photo-9069502.jpeg?auto=compress&cs=tinysrgb&w=600",
     "gameUrl": "https://example.com/snake.zip"
   },
   {
     "id": "6",
     "title": "SOLITAIRE",
     "category": "CARDS",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Solitaire_game_screenshot.png/640px-Solitaire_game_screenshot.png",
+    "imageUrl": "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&cs=tinysrgb&w=600",
     "gameUrl": "https://example.com/solitaire.zip"
   }
 ]
