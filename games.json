@@ -3,42 +3,210 @@
     "id": "1",
     "title": "2048 PUZZLE",
     "category": "PUZZLE",
-    "imageUrl": "https://images.pexels.com/photos/1329295/pexels-photo-1329295.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/1200px-2048_logo.svg.png",
     "gameUrl": "https://github.com/gabrielecirulli/2048/archive/refs/heads/master.zip"
   },
   {
     "id": "2",
     "title": "LUDO CLASSIC",
     "category": "BOARD",
-    "imageUrl": "https://images.pexels.com/photos/278918/pexels-photo-278918.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ludo_board.png",
     "gameUrl": "https://github.com/simonhochrein/ludo-js/archive/refs/heads/master.zip"
   },
   {
     "id": "3",
     "title": "CHESS MASTER",
     "category": "BOARD",
-    "imageUrl": "https://images.pexels.com/photos/51928/chess-game-chessboard-glass-51928.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chess_board_opening_staunton.jpg/800px-Chess_board_opening_staunton.jpg",
     "gameUrl": "https://example.com/chess.zip"
   },
   {
     "id": "4",
     "title": "SUDOKU PRO",
     "category": "PUZZLE",
-    "imageUrl": "https://images.pexels.com/photos/2080336/pexels-photo-2080336.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/1200px-Sudoku-by-L2G-20050714.svg.png",
     "gameUrl": "https://example.com/sudoku.zip"
   },
   {
     "id": "5",
     "title": "SNAKE GAME",
     "category": "ARCADE",
-    "imageUrl": "https://images.pexels.com/photos/9069502/pexels-photo-9069502.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Snake_video_game.png/640px-Snake_video_game.png",
     "gameUrl": "https://example.com/snake.zip"
   },
   {
     "id": "6",
     "title": "SOLITAIRE",
     "category": "CARDS",
-    "imageUrl": "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Solitaire_game_screenshot.png/640px-Solitaire_game_screenshot.png",
     "gameUrl": "https://example.com/solitaire.zip"
+  },
+  {
+    "id": "7",
+    "title": "MINESWEEPER",
+    "category": "PUZZLE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Minesweeper_0.svg/640px-Minesweeper_0.svg.png",
+    "gameUrl": "https://example.com/mines.zip"
+  },
+  {
+    "id": "8",
+    "title": "TIC TAC TOE",
+    "category": "BOARD",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/600px-Tic_tac_toe.svg.png",
+    "gameUrl": "https://example.com/tictactoe.zip"
+  },
+  {
+    "id": "9",
+    "title": "TETRIS BLOCKS",
+    "category": "ARCADE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tetrominoes_IJLO_STZ_Worlds.svg/800px-Tetrominoes_IJLO_STZ_Worlds.svg.png",
+    "gameUrl": "https://example.com/tetris.zip"
+  },
+  {
+    "id": "10",
+    "title": "PAC MAN STYLE",
+    "category": "ARCADE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pacman.svg/542px-Pacman.svg.png",
+    "gameUrl": "https://example.com/pac.zip"
+  },
+  {
+    "id": "11",
+    "title": "SPACE INVADERS",
+    "category": "ARCADE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Space_invaders_alien.svg/640px-Space_invaders_alien.svg.png",
+    "gameUrl": "https://example.com/space.zip"
+  },
+  {
+    "id": "12",
+    "title": "CONNECT 4",
+    "category": "BOARD",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Connect_Four.svg/640px-Connect_Four.svg.png",
+    "gameUrl": "https://example.com/connect4.zip"
+  },
+  {
+    "id": "13",
+    "title": "CHECKERS",
+    "category": "BOARD",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Draughts_board.svg/600px-Draughts_board.svg.png",
+    "gameUrl": "https://example.com/checkers.zip"
+  },
+  {
+    "id": "14",
+    "title": "BACKGAMMON",
+    "category": "BOARD",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Backgammon_lg.png/640px-Backgammon_lg.png",
+    "gameUrl": "https://example.com/backgammon.zip"
+  },
+  {
+    "id": "15",
+    "title": "BILLIARDS 8BALL",
+    "category": "SPORTS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/8_ball_rack.jpg/640px-8_ball_rack.jpg",
+    "gameUrl": "https://example.com/pool.zip"
+  },
+  {
+    "id": "16",
+    "title": "RUBIK CUBE",
+    "category": "PUZZLE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/600px-Rubik%27s_cube.svg.png",
+    "gameUrl": "https://example.com/rubik.zip"
+  },
+  {
+    "id": "17",
+    "title": "DOMINOES",
+    "category": "BOARD",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dominoes_-_08.jpg/640px-Dominoes_-_08.jpg",
+    "gameUrl": "https://example.com/domino.zip"
+  },
+  {
+    "id": "18",
+    "title": "POKER CARDS",
+    "category": "CARDS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Poker_cards.svg/640px-Poker_cards.svg.png",
+    "gameUrl": "https://example.com/poker.zip"
+  },
+  {
+    "id": "19",
+    "title": "MAZE RUNNER",
+    "category": "PUZZLE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Maze.svg/640px-Maze.svg.png",
+    "gameUrl": "https://example.com/maze.zip"
+  },
+  {
+    "id": "20",
+    "title": "MEMORY GAME",
+    "category": "PUZZLE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Card_back_01.svg/400px-Card_back_01.svg.png",
+    "gameUrl": "https://example.com/memory.zip"
+  },
+  {
+    "id": "21",
+    "title": "TANGRAM",
+    "category": "PUZZLE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Tangram_set_00.jpg/640px-Tangram_set_00.jpg",
+    "gameUrl": "https://example.com/tangram.zip"
+  },
+  {
+    "id": "22",
+    "title": "15 PUZZLE",
+    "category": "PUZZLE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/15-puzzle.svg/600px-15-puzzle.svg.png",
+    "gameUrl": "https://example.com/15puzzle.zip"
+  },
+  {
+    "id": "23",
+    "title": "MAHJONG",
+    "category": "BOARD",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mahjong-Set.jpg/640px-Mahjong-Set.jpg",
+    "gameUrl": "https://example.com/mahjong.zip"
+  },
+  {
+    "id": "24",
+    "title": "MASTERMIND",
+    "category": "BOARD",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mastermind.jpg/640px-Mastermind.jpg",
+    "gameUrl": "https://example.com/mastermind.zip"
+  },
+  {
+    "id": "25",
+    "title": "REVERSI (OTHELLO)",
+    "category": "BOARD",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Othello-Reversi-board.jpg/640px-Othello-Reversi-board.jpg",
+    "gameUrl": "https://example.com/reversi.zip"
+  },
+  {
+    "id": "26",
+    "title": "SCRABBLE",
+    "category": "PUZZLE",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Scrabble_game_in_progress.jpg/640px-Scrabble_game_in_progress.jpg",
+    "gameUrl": "https://example.com/scrabble.zip"
+  },
+  {
+    "id": "27",
+    "title": "PING PONG",
+    "category": "SPORTS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Table_tennis_racket_and_ball.jpg/640px-Table_tennis_racket_and_ball.jpg",
+    "gameUrl": "https://example.com/pingpong.zip"
+  },
+  {
+    "id": "28",
+    "title": "BOWLING",
+    "category": "SPORTS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bowling_balls_and_pins.jpg/640px-Bowling_balls_and_pins.jpg",
+    "gameUrl": "https://example.com/bowling.zip"
+  },
+  {
+    "id": "29",
+    "title": "DARTS CLUB",
+    "category": "SPORTS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dartboard_and_Darts.jpg/600px-Dartboard_and_Darts.jpg",
+    "gameUrl": "https://example.com/darts.zip"
+  },
+  {
+    "id": "30",
+    "title": "TUX RACER",
+    "category": "RACING",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Tux_Racer_0.61.png/640px-Tux_Racer_0.61.png",
+    "gameUrl": "https://example.com/tux.zip"
   }
 ]
